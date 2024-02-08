@@ -1,3 +1,6 @@
 Edit this file and try to cause merge conflicts if you want
 
 blahblahblah
+Edit this file and try to cause merge conflicts if you want
+
+Hello!
